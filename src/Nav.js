@@ -5,10 +5,10 @@ const Nav = ({ items }) => {
   return (
     <div id="navbar">
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/shop">Shop</Link>
-        <Link to="/cart">Cart: {items}</Link>
+        <Link to="/shopping-cart">Home</Link>
+        <Link to="/shopping-cart/about">About</Link>
+        <Link to="/shopping-cart/shop">Shop</Link>
+        <Link to="/shopping-cart/cart">Cart: {items}</Link>
       </nav>
     </div>
   );
