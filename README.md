@@ -1,5 +1,7 @@
 # Shopping Cart
 
-[Live page](https://vqnguyen94.github.io/shopping-cart/).
+[Live page](https://vqnguyen94.github.io/shopping-cart/)
 
-Basic functionality, minimal styling.
+Practice using React routing
+
+Basic functionality, minimal styling
